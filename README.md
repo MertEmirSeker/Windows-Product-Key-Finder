@@ -30,7 +30,7 @@ The script will open a graphical interface where you can view your Windows Produ
 You can convert this Python script into a standalone executable using PyInstaller. To do so, use the following command:
 
 ```bash
-pyinstaller --onefile --windowed --icon=C:/Users/merts/OneDrive/Masaüstü/windowskeyfinder/icon/logo.ico --add-data "../icon/logo.ico;icon" --add-data "../icon/background.png;icon" --distpath "app" --workpath "app/build" --specpath "app" source/key.py
+pyinstaller --onefile --windowed --icon=../icon/logo.ico --add-data "../icon/logo.ico;icon" --add-data "../icon/background.png;icon" --distpath "app" --workpath "app/build" --specpath "app" source/key.py
 ```
 
 This command will create a single executable file with the specified icon and additional data files. The executable will be placed in the `app` directory.
