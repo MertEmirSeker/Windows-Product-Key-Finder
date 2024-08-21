@@ -1,5 +1,5 @@
 
-# ![https://github.com/MertEmirSeker/Pictures-and-Videos/blob/main/seker_logo.png] Windows Product Key Finder
+# ![Seker Logo](https://github.com/MertEmirSeker/Pictures-and-Videos/blob/main/seker_logo.png) Windows Product Key Finder
 
 A simple Python script to find and display your Windows Product Key with an option to save it as a text file.
 
