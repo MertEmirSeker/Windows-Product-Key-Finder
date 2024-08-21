@@ -1,6 +1,6 @@
 
 <h1>
-  <img src="https://github.com/MertEmirSeker/Pictures-and-Videos/blob/main/seker_logo.png" alt="Seker Logo" width="80" />
+  <img src="https://github.com/MertEmirSeker/Pictures-and-Videos/blob/main/seker_logo.png" alt="Seker Logo" width="100" />
   Windows Product Key Finder
 </h1>
 
